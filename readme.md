@@ -1,5 +1,5 @@
 
-# Cats and Dogs Image Classifier using fastai
+# Cats and Dogs Image Classifier using Deep Learning  
 
 This project is an image classifier that can identify whether an image contains a cat or a dog. It uses deep learning models and the fastai library, which is built on top of PyTorch.
 
