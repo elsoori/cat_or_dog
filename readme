@@ -1,1 +1,4 @@
+Make an image classifier for Cats and Dogs using machine learning(subset Deep learning) models and fastai:
 
+
+Identify whether or not it's a cat by training a deep learning model with a dataset containing cats and dogs. 
